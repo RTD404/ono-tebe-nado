@@ -199,7 +199,7 @@
   background-size: cover;
 }
 
-.card__title{
+.card__title {
   color: #FFF;
   font-weight: 700;
   font-size: 22px;
@@ -300,7 +300,7 @@
   list-style-type: none;
 }
 
-.footer__social-link{
+.footer__social-link {
   display: block;
   text-decoration: none;
 }
